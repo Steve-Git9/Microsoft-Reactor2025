@@ -1,8 +1,6 @@
 # Microsoft-Reactor2025
 Repository for Microsoft Reactor2025 Hackathon
 
-Sure! Here's a sample README document for your project involving an agent that automates references for Haaga-Helia University of Applied Sciences:
-
 ---
 # Project Name
 
