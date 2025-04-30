@@ -8,17 +8,13 @@ AIDtoReference
 
 ## Description
 
-This project involves the development of an intelligent agent designed to automate the process of generating academic references for students and staff at Haaga-Helia University of Applied Sciences. The goal is to streamline the creation of bibliographic references across various citation styles (e.g., APA, MLA, Chicago), reducing manual workload, improving consistency, and enhancing academic productivity.
+This project involves the development of an intelligent agent designed to automate the process of generating academic references for students and staff at Haaga-Helia University of Applied Sciences. Many University refer to the main citation styles (e.g., APA, MLA, Chicago) but then they apply small differences that make the referencing part of an academic work a menace. The aim is to reduce manual workload and provide to any university website a tool to ease the life of students or staff.
+At the moment it has been instructed just with Haaga-Helia UAS guidelines, but, obviously, it can be extended to any University special guideline.
 
 The agent is capable of parsing source information from various inputs (e.g., URLs, PDFs, or plain text) and generating formatted citations using Haaga Helia rules.
 
 ## Modifications
 
-- Customized citation output to support Finnish and international academic standards.
-- Integration with Haaga-Helia's authentication system for secure user access.
-- Added support for importing metadata from national library APIs and Google Scholar.
-- Extended citation style support to include European variations where applicable.
-- Optimized UI for use within Moodle and other institutional LMS environments.
 
 ## Who Benefits
 
@@ -29,32 +25,19 @@ The agent is capable of parsing source information from various inputs (e.g., UR
 
 ## Technical Architecture Overview
 
-- **Frontend**:  
-  Built using React.js for dynamic user interaction and responsiveness, tailored for integration with Moodle and standalone use.
-
-- **Backend**:  
-  Developed in Python (FastAPI), handling citation processing, input parsing, and style formatting using the `citeproc-py` library.
-
-- **Database**:  
-  PostgreSQL stores user sessions, citation history, and customized preferences.
-
-- **Integration Points**:  
-  - National Library of Finland API for bibliographic metadata  
-  - Google Books API for book data  
-  - Moodle plugin for LMS embedding  
-  - Haaga-Helia authentication (OAuth2)
-
-- **Deployment**:  
-  Docker-based containerized deployment hosted on Haaga-Helia’s cloud infrastructure with CI/CD via GitLab.
+Microsoft Copilot Studio
 
 # Project Repository URL
 
+https://github.com/Steve-Git9/Microsoft-Reactor2025
+
 # Project Demo Video
 
-https://youtu.be/PHOsHp3ImrU?si=0pnT2D0Sed-kj8Dj
-Team Members
+https://youtu.be/TPOBIpw-Hhw
 
-mneang, Cath102, francinehtran
+# Team Members
+
+Steve-Git9, skumarkd
 ---
 
 Let me know if you’d like this formatted for GitHub, or if you want a diagram included for the technical architecture.
