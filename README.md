@@ -15,6 +15,7 @@ The agent is capable of parsing source information from various inputs (e.g., UR
 
 ## Modifications
 
+Compared to other online websites that can provide transformation of raw formatted resources into one of the main referencing standards, this agent is capable of following the precise rules provided by the related university. In other words, it capture the exact format of the referencing according to the guidelines of the specified university. It eases the life of any user in their academic work providing the resource formatted and ready to be copy-pasted on their own document.
 
 ## Who Benefits
 
